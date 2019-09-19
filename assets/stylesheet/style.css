@@ -117,16 +117,23 @@ h1 {
 
 
 }
+.colp {
+	color: grey;
+	padding: 20px;
+	padding-right: 30px;
+	line-height: 1.5;
+	font-size: 15px;
+}
 .col1p {
 	color: grey;
 	padding: 20px;
 	padding-right: 30px;
 	line-height: 1.5;
-	font-size: 12px;
+	font-size: 20px;
 }
 h3 {
 	padding: 20px;
-	font-size: 20px;
+	font-size: 25px;
 	margin-top: 50px;
 	color: #5385C0;
 }
@@ -173,6 +180,7 @@ h5 {
 
 }
 .col41 {
+	height: 80px;
 	width: 45%;
 	padding: 20px;
 	display: inline-block;
@@ -209,6 +217,7 @@ h6 {
 	background-color: white;
 	color: lightgrey;
 	padding-bottom: 40px;
+	padding-top: 20px;
 }
 hr {
 	border:0.5px solid lightgrey;
