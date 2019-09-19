@@ -58,6 +58,7 @@ header {
 .wrapper {
 	max-width:1400px;
 	margin: 0px auto;
+	padding: 0px 20px;
 }
 .logo {
 	float: left;
@@ -101,7 +102,7 @@ h1 {
 	color: #5385C0;
 }
 .col1 {
-	width: 30%;
+	width: 28%;
 	padding: 20px;
 	display: inline-block;
 
@@ -142,7 +143,7 @@ h4 {
 	margin-bottom: 60px;
 }
 .box1 {
-	width: 21%;
+	width: 19%;
 	padding: 20px 0px;
 	text-align: center;
 	display: inline-block;
@@ -168,9 +169,10 @@ h5 {
 }
 .sec4 {
 	background-color: white;
+
 }
 .col41 {
-	width: 46%;
+	width: 45%;
 	padding: 20px;
 	display: inline-block;
 }
